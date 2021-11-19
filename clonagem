@@ -1,0 +1,22 @@
+Criar um novo Hard Disk de 90gb no Windows
+Iniciar o Windows e habilitar o novo HD em MBR
+Snapshot
+=====================================================
+Acronis
+Acronis true image
+tools e utilities - clone disk
+cloned disk (recomended)
+proceed - shut down after completed
+=====================================================
+AOMEI Backupper
+Clone - Soucer disk - disk0
+Select a destination disk to clone the source disk - disk1
+Start Clone
+Shut down
+=====================================================
+Macrium Reflect
+Clone backups
+Clone this disk
+Drag partitions to the destination disk or click 'Copy Partitions'
+Select a disk to clone to... - next
+Finish
