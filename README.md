@@ -1,2 +1,2 @@
 #clonagem
-clonagem de disco para disco - acronis/aoemi/macrium
+de disco para disco - acronis/aoemi/macrium
